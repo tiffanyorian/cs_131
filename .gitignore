@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# PLY parser auto-generated files
+parsetab.py
+parser.out
+
+# Optional: common editor/config junk
+.vscode/
+.idea/
+*.log
